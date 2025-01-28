@@ -1,0 +1,16 @@
+{
+  "name": "3d-fps-game",
+  "version": "1.0.0",
+  "description": "A web-based 3D FPS game with multiplayer features",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
